@@ -1,6 +1,6 @@
 PT-BR
 # Agenda-Calorica
-Site espere o site " https://caloriasporalimentoapi.herokuapp.com/api/calorias/?descricao=Frango" voltar
+Espere o site " https://caloriasporalimentoapi.herokuapp.com/api/calorias/?descricao=Frango" voltar
 
 
 EN-US
